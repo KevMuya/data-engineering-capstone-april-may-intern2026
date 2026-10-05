@@ -1,5 +1,7 @@
 # Customer 360 - End-to-End Run Instructions
 
+See the [medallion architecture diagram](medallion_architecture.md) for the end-to-end data flow.
+
 ## Prerequisites
 
 The solution requires:
